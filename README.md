@@ -1,7 +1,7 @@
 # newtabimages
 Low-maintenance, client-only approach to giving some exposure to giant saved image archives in the browser.
 
-# What is this
+# What is this?
 During covid quarantine I decided to do a deep reorganization of my local filesystem; as part of that process I consolidated 10+ years of screenshots and saved images. 
 
 I realized it would be nice to have a way to casually commune with that archive, and the thing I settled on was, "show me five images from in there whenever I open a new tab." So that's what this does.
